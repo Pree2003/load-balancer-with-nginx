@@ -16,4 +16,12 @@ I had to restart web1 and web2 but in the process webs erver 2 could not start m
 <img width="554" height="218" alt="image" src="https://github.com/user-attachments/assets/cbe3e54c-1cb3-4cad-b50f-3343abcf02ff" />
 
 
+<img width="130" height="132" alt="image" src="https://github.com/user-attachments/assets/81f0e6a7-7b01-424d-88c8-b287f6056ecc" />
+
+I ssh into all 3 servers the nginx server and web server 1 and 2
+
+<img width="465" height="280" alt="image" src="https://github.com/user-attachments/assets/470cf4d4-f660-4a08-84bd-dfc2ba8cd053" />
+
+I opened my nginx lb server and used the command sudo nano /etc/hosts to open my /etc/hosts so it can be edited.
+
 
