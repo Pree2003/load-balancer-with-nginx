@@ -9,3 +9,11 @@ My first step for this project was to create an instance named nginxlb.
 
 I edited inbound rules and opened port 80 to allow HTTP connections, and I opened port 443 to secure HTTPS connections.
 
+<img width="554" height="30" alt="image" src="https://github.com/user-attachments/assets/846f0dd5-5f24-4726-8307-286bf3590fce" />
+
+I had to restart web1 and web2 but in the process webs erver 2 could not start meaning I had to change instance type from t3micro to t3small
+
+<img width="554" height="218" alt="image" src="https://github.com/user-attachments/assets/cbe3e54c-1cb3-4cad-b50f-3343abcf02ff" />
+
+
+
