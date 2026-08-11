@@ -28,3 +28,12 @@ I opened my nginx lb server and used the command sudo nano /etc/hosts to open my
 
 I used the commands  ping -c 2 Web1 & ping -c 2 Web2 to test if  local name resolution (DNS) between my Nginx Load Balancer server and the target web servers (Web1 and Web2). 
 
+<img width="554" height="403" alt="image" src="https://github.com/user-attachments/assets/44a35da8-2236-40e5-9ea9-f24ed3b29ac8" />
+
+My next step is to install latest packages using sudo apt update
+
+<img width="553" height="341" alt="image" src="https://github.com/user-attachments/assets/7cfe4ba1-fb02-4f4b-859c-624dcdb00dd2" />
+
+Next I installed nginx using sudo apt install nginx
+
+
