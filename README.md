@@ -24,4 +24,7 @@ I ssh into all 3 servers the nginx server and web server 1 and 2
 
 I opened my nginx lb server and used the command sudo nano /etc/hosts to open my /etc/hosts so it can be edited.
 
+<img width="467" height="225" alt="image" src="https://github.com/user-attachments/assets/52cc0fdd-a27a-4236-a246-6315aca765f6" />
+
+I used the commands  ping -c 2 Web1 & ping -c 2 Web2 to test if  local name resolution (DNS) between my Nginx Load Balancer server and the target web servers (Web1 and Web2). 
 
