@@ -36,4 +36,12 @@ My next step is to install latest packages using sudo apt update
 
 Next I installed nginx using sudo apt install nginx
 
+<img width="554" height="298" alt="image" src="https://github.com/user-attachments/assets/9d37580b-27ef-4dfc-8cb8-8981d2d97cea" />
+
+Next step is to configure  Nginxlb
+
+<img width="554" height="217" alt="image" src="https://github.com/user-attachments/assets/e88bdfb3-b25b-42a3-b6df-d1a21d129d5b" />
+
+I restarted Nginx to see if the  sysyem is running
+
 
