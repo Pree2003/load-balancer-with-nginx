@@ -135,6 +135,6 @@ I verified that Certbot has an automatic renewal schedule configured on the Ngin
 
 <img width="436" height="390" alt="image" src="https://github.com/user-attachments/assets/a4d0a9d2-cc36-459e-955a-a2d0777ef860" />
 
-
+As the final step of the project, I secured the website by enabling HTTPS using an SSL/TLS certificate obtained through Certbot.
 
 
